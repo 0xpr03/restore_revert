@@ -1,0 +1,9 @@
+[package]
+name = "restore_revert"
+version = "1.0.0"
+authors = ["Aron Heinecke <aron.heinecke@t-online.de>"]
+
+[dependencies]
+regex = "1.0.0"
+lazy_static = "1.0.0"
+clap = "~2.31"
