@@ -45,7 +45,7 @@ struct Reverted {
 fn main() {
     let matches = App::new("restore_revert")
         .version("1.0")
-        .author("Aron H. <aron.heinecke@t-online.de>")
+        .author("Aron Heinecke <aron.heinecke@t-online.de>")
         .about("Revert backintime restore of files")
         .arg(Arg::with_name("dir")
             .short("d")
