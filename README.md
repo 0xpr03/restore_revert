@@ -1,4 +1,4 @@
-## Backintime restore revert software
+## Backintime restore revert software [![Build Status](https://travis-ci.com/0xpr03/restore_revert.svg?branch=master)](https://travis-ci.com/0xpr03/restore_revert)
 Allows to undo a restore if the .backup.<Date> files are still present.
 
 This tool is for accidentally restoring a folder in Backintime with the backup option enabled.
